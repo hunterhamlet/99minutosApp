@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">99minutos.com</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="login_btn_text">ACCEDER CON CÓDIGO QR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_personal_next">Siguiente</string>
+
+
+    <!--String para los spinners-->
+        <string-array name="info_personal_bank">
+            <item>BBVA Bancomer</item>
+            <item>Banco Azteca</item>
+            <item>Banorte/IXE</item>
+            <item>Citi Banamex</item>
+            <item>Santander</item>
+            <item>Scotiabank</item>
+            <item>Otro</item>
+        </string-array>
+
+
+</resources>
